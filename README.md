@@ -63,6 +63,31 @@
       </tr>
     </tbody>
   </table>
+   <h3>Proyectos</h3>
+   <div align= 'center'>
+     <table>
+       <tbody>
+         <tr>
+           <td>
+             <div align='center'>
+               <h3>Risk Map Chile V1.0</h3>
+               <a href="https://www.google.com" target="_blank" rel="noopener noreferrer">
+                <img src="https://github.com/user-attachments/assets/203b42a3-dff9-4b41-9405-0add37054211" 
+                     alt="Risk Map Chile" width="200" height="200" />
+              </a>
+                </div>
+               <p>Sitio web, puedes visualizar un mapa con zonas de mayor riesgos de<br> 
+                 accidentes automovilísticos. Cada zona posee información del numero <br>
+                 de accidentes junto al horario que mas frecuentaron. Además del conteo <br>
+                 de personas desde ilesos hasta fallecidos.
+               </p>
+             
+           </td>
+         </tr>
+       </tbody>
+     </table>
+     
+   </div>
  </div>
 </div>
 
