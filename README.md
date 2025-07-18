@@ -81,7 +81,6 @@
                  de accidentes junto al horario que mas frecuentaron. Además del conteo <br>
                  de personas desde ilesos hasta fallecidos.
                </p>
-             
            </td>
          </tr>
        </tbody>
@@ -89,12 +88,4 @@
    </div>
  </div>
 </div>
-
-  
-
-
-
-
-
-
 </div>
