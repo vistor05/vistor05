@@ -76,6 +76,7 @@
                      alt="Risk Map Chile" width="200" height="200" />
               </a>
                 </div>
+<p>Pandas, DBSCAN, React, Typescript</p>
                <p>Sitio web, puedes visualizar un mapa con zonas de mayor riesgos de<br> 
                  accidentes automovilísticos. Cada zona posee información del numero <br>
                  de accidentes junto al horario que mas frecuentaron. Además del conteo <br>
