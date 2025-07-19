@@ -12,58 +12,6 @@
     <li>📊 Analista de datos</li>
   </ul>
 </div>
-<!-- 
-<div>
-  <h3>Manejo una variedad de herramientas y tecnologias para distintas áreas </h3>
- <div>
-    <table border="0">
-    <thead>
-      <tr>
-        <th>Front-end</th>
-        <th>Back-end</th>
-        <th>Analista de datos</th>
-        <th>Control de versiones</th>
-        <th>Diseño UI/UX</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td>
-          <ul>
-            <li>HTML</li>
-            <li>CSS</li>
-            <li>TypeScript</li>
-            <li>React</li>
-            <li>React Native</li>
-          </ul>
-        </td>
-        <td>
-          <ul>
-            <li>Python</li>
-            <li>Javascript</li>
-            <li>Node.js</li>
-            <li>Express.js</li>
-            <li>PostgreSQL</li>
-            <li>MySQL</li>
-          </ul>   
-        </td>
-        <td>
-          <ul>
-            <li>Excel</li>
-            <li>Pandas</li>
-            <li>Algorimos no Supervisados (DBSCAN, K-Means)</li>
-            <li>Power BI</li>
-          </ul>
-        </td>
-        <td>
-          Git
-        </td>
-         <td>
-          figma
-        </td>
-      </tr>
-    </tbody>
-  </table> -->
    <h3>Proyectos</h3>
    <div align= 'center'>
      <table>
@@ -87,6 +35,10 @@
                  de accidentes junto al horario que mas frecuentaron. Además del conteo <br>
                  de personas desde ilesos hasta fallecidos.
                </p>
+<div align="center">
+  <a href="https://github.com/KrisMoshiro/risk-map-chile">Visitar Repositorio</a>&nbsp;&nbsp;&nbsp;
+  <a href="https://krismoshiro.github.io/risk-map-chile-front/">Visitar Página</a>
+</div>
            </td>
          </tr>
        </tbody>
