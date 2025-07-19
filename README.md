@@ -36,8 +36,8 @@
                  de personas desde ilesos hasta fallecidos.
                </p>
 <div align="center">
-  <a href="https://github.com/KrisMoshiro/risk-map-chile">Visitar Repositorio</a>&nbsp;&nbsp;&nbsp;
-  <a href="https://krismoshiro.github.io/risk-map-chile-front/">Visitar Página</a>
+  <a href="https://github.com/KrisMoshiro/risk-map-chile" target="_blank">Visitar Repositorio</a>&nbsp;&nbsp;&nbsp;
+  <a href="https://krismoshiro.github.io/risk-map-chile-front/" target="_blank">Visitar Página</a>
 </div>
            </td>
          </tr>
