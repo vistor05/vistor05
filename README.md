@@ -12,6 +12,7 @@
     <li>📊 Analista de datos</li>
   </ul>
 </div>
+<!-- 
 <div>
   <h3>Manejo una variedad de herramientas y tecnologias para distintas áreas </h3>
  <div>
@@ -62,7 +63,7 @@
         </td>
       </tr>
     </tbody>
-  </table>
+  </table> -->
    <h3>Proyectos</h3>
    <div align= 'center'>
      <table>
@@ -76,8 +77,12 @@
                      alt="Risk Map Chile" width="200" height="200" />
               </a>
                 </div>
-<p>Pandas, DBSCAN, React, Typescript</p>
-               <p>Sitio web, puedes visualizar un mapa con zonas de mayor riesgos de<br> 
+<img alt="Static Badge" src="https://img.shields.io/badge/Python-%23FFD43B?style=flat&logo=python">
+           <img alt="Static Badge" src="https://img.shields.io/badge/React-white?style=flat&logo=react&logoColor=blue&labelColor=white">
+           <img alt="Static Badge" src="https://img.shields.io/badge/Typescript-white?style=flat&logo=typescript">
+           <img alt="Static Badge" src="https://img.shields.io/badge/Pandas-%23150458?style=flat&logo=pandas">
+            <img alt="Static Badge" src="https://img.shields.io/badge/DBSCAN-%239C27B0">
+               <p><br>Sitio web, puedes visualizar un mapa con zonas de mayor riesgos de<br> 
                  accidentes automovilísticos. Cada zona posee información del numero <br>
                  de accidentes junto al horario que mas frecuentaron. Además del conteo <br>
                  de personas desde ilesos hasta fallecidos.
